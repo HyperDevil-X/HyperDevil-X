@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://hyperdevil-x.github.io/Resume/](https://hyperdevil-x.github.io/Resume/)
   
-- 📄 My Protfolio https://hyperdevil-x.github.io/Protfolio.github.io/
+- 📄 My Protfolio https:https://hyperdevil-x.github.io/Personal/
 
 - ⚡ Fun fact **I am funny😂😎**
 
