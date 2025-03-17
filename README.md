@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Monaj Bid</h1>
 <h3 align="center">A passionate Full Stack Web App Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/368/small/3d-website-developer-working-on-laptop-illustration-png.png">
+<img align="right" alt="coding" width="400" src="https://static.vecteezy.com/system/resources/thumbnails/011/153/363/small/3d-web-developer-working-on-project-illustration-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperdevil-x&label=Profile%20views&color=0e75b6&style=flat" alt="hyperdevil-x" /> </p>
 
