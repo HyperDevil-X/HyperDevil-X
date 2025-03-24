@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manojbid2003@gmail.com**
 
-- 📄 Know about my experiences [-Resume-](https://drive.google.com/file/d/1lbxRxo0xCXSbfniJsnSDBJxG-8DC2xEl/view?usp=drive_link)
+- 📄 Know about my experiences [-Resume-](https://drive.google.com/file/d/1cVaCDlrUNOQ0W7vvqGQs5bR5CX1f2zUF/view?usp=sharing)
   
 - 📄 My Protfolio https:https://hyperdevil-x.github.io/Personal/
 
